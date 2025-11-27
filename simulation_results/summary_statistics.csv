@@ -1,0 +1,6 @@
+,avg_delay,avg_delay,throughput,throughput,queue_length,queue_length,efficiency,efficiency,fuel_consumption,fuel_consumption
+,mean,std,mean,std,mean,std,mean,std,mean,std
+method,,,,,,,,,,
+Classical Optimization,1.364,2.0,38.3,5.478,2.65,3.265,0.36,0.051,0.545,0.793
+Fixed Timing,0.811,1.22,42.15,4.76,2.2,3.381,0.351,0.04,0.352,0.523
+Quantum Optimization,1.207,1.477,35.4,5.443,2.8,2.726,0.346,0.054,0.463,0.598
